@@ -1,5 +1,5 @@
 // Create my sports themed array for gifs
-var subject = ['basketball', 'dance', 'racing', 'football', 'basketball', 'golf', 'skateboarding',
+var subject = ['basketball', 'dance', 'racing', 'nfl football', 'basketball', 'golf', 'skateboarding',
               'volleyball', 'baseball', 'snowboarding', 'gymnastics', 'soccer', 'dog'];
 var searchQuery = '';
 // Create the limit of gifs on a page
