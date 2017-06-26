@@ -1,0 +1,56 @@
+body {
+  background-color: #e4e4e4;
+}
+
+#btn-div {
+  margin: 10px 0 20px 20px;
+}
+
+.btn {
+  color: #ffffff;
+  outline: none;
+  border: solid 1px #b1adad;
+  background-color: #4aaaa5;
+}
+
+.gif-btn {
+  margin: 0 15px 10px 0;
+}
+
+#form-div {
+	margin: 0	20px 0 0;
+}
+
+.submit-btn {
+  margin: 10px 0 0 0;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+#gifHeading {
+	margin: 0 0 0 20px;
+	color: #286090;
+}
+
+.gif-div {
+  display: inline-block;
+  margin: 10px 20px 10px 20px;
+	padding-right: 10px;
+}
+
+.gif-img {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.gif-div:hover {
+	perspective: 700px;
+	-webkit-perspective: 700px;
+}
+
+.gif-img:hover {
+	transform: rotateX(15deg) translateZ(100px);
+	-webkit-transform: rotateX(15deg) translateZ(100px);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
